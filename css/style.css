@@ -11,6 +11,12 @@ nav .brand-logo {
   color: #444;
 }
 
+* {
+  font-family: "condensed light";
+}
+
+
+
 p {
   line-height: 2rem;
 }
