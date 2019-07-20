@@ -69,3 +69,7 @@ footer.page-footer {
 .card {
   min-height: 342px;
 }
+
+nav > div > img {
+  width: 80px;
+}
